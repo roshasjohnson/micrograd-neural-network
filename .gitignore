@@ -2,3 +2,4 @@ venv/
 .ipynb_checkpoints/
 .claude/
 notes.txt
+.gitignore
